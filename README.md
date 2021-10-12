@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VladislavSMI
+- 👀 I’m interested in full stack webdevelopment 
+- 🌱 I’m currently learning nodejs
+- 💞️ I’m looking to collaborate on React web apps 
+- 📫 You can reach me https://smihula.com or on twitter @smihula_ 
