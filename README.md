@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @VladislavSMI
-- 👀 I’m interested in full stack webdevelopment 
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on React web apps 
-- 📫 You can reach me https://smihula.com or on twitter @smihula_ 
+👋 Hi, I’m Vladislav (@VladislavSMI)
+👀 I’m a Full-Stack Web Developer.
+🌱 Currently, I’m learning how to integrate AI models into web apps to enhance functionality and user experiences.
+💼 I specialize in TypeScript, React, Next.js, NodeJs, and AWS Cloud Solutions.
+💞️ I’m open to collaborating on React-based web applications or innovative projects involving cloud architecture.
+📫 You can reach me via my website https://smihula.com or on Twitter @smihula_
